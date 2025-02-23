@@ -1,4 +1,4 @@
-# Day 7: JavaScript30 — Array Cardio Day 2
+# Day 7: JavaScript30 — Array Cardio Day (Part 2)
 
 ## Overview
 On Day 7 of the JavaScript30 series, we continued exploring array methods, focusing on **`.some()`**, **`.every()`**, **`.find()`**, and **`.findIndex()`**. These methods are powerful for evaluating and manipulating arrays, making data handling in JavaScript more efficient.
